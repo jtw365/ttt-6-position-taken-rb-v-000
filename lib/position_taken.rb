@@ -1,5 +1,5 @@
 # code your #position_taken? method her
-def position_taken?(board, index)
+def position_taken?(board, index = " ")
   if board[index] == " "
     puts "false"
   elsif board[index] == ""
