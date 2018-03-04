@@ -5,4 +5,4 @@ def position_taken?(board, index)
   end
 end
 
-position_taken?(board[X])
+position_taken?(x)
