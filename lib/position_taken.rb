@@ -1,6 +1,6 @@
 # code your #position_taken? method her
 def position_taken?(board, index)
   if board[index] == " "
-    puts false
+    print false
   end
 end
